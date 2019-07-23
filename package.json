@@ -1,0 +1,27 @@
+{
+  "name": "node-setup-example",
+  "version": "1.0.0",
+  "description": "Trying out node for the first time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sherry-ummen/node-setup-example.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Sherry Ummen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sherry-ummen/node-setup-example/issues"
+  },
+  "homepage": "https://github.com/sherry-ummen/node-setup-example#readme",
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-google": "^0.13.0"
+  }
+}
