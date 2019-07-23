@@ -1,5 +1,5 @@
 /* eslint-disable require-jsdoc */
-function print(message) {
+function print() {
   console.log('Hello World');
 }
 
